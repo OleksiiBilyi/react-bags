@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-bags/static/css/main.a3b23290.css",
+    "main.js": "/react-bags/static/js/main.7ce5af48.js",
+    "WishList.css": "/react-bags/static/css/WishList.0ae01249.chunk.css",
+    "WishList.js": "/react-bags/static/js/WishList.16def60e.chunk.js",
+    "ShoppingBag.css": "/react-bags/static/css/ShoppingBag.3f68d67f.chunk.css",
+    "ShoppingBag.js": "/react-bags/static/js/ShoppingBag.9683439d.chunk.js",
+    "FullProduct.css": "/react-bags/static/css/FullProduct.8b07a84d.chunk.css",
+    "FullProduct.js": "/react-bags/static/js/FullProduct.fa4c15bf.chunk.js",
+    "NotFound.css": "/react-bags/static/css/NotFound.ecb3b9f0.chunk.css",
+    "NotFound.js": "/react-bags/static/js/NotFound.82c4033f.chunk.js",
+    "static/media/filterIcon.svg": "/react-bags/static/media/filterIcon.2e4530df64c8f3cc6511c437f6d00d17.svg",
+    "index.html": "/react-bags/index.html",
+    "static/media/menuArrowIcon.svg": "/react-bags/static/media/menuArrowIcon.5d85757c3dc43f9de556f36e33437d53.svg",
+    "static/media/backArrowIcon.svg": "/react-bags/static/media/backArrowIcon.85eb7ccb9a4340bab9712fbba8dc8f40.svg",
+    "static/media/heartIcon.svg": "/react-bags/static/media/heartIcon.4f5ad55f57d67ac47dba68cd5354c498.svg",
+    "static/media/searchIcon.svg": "/react-bags/static/media/searchIcon.b741c0f34530e851e5c59aa27c5dbb4f.svg",
+    "static/media/bagIcon.svg": "/react-bags/static/media/bagIcon.c735d3c174eeadfc5e54f59bb16be93c.svg",
+    "static/media/crossMenuIcon.svg": "/react-bags/static/media/crossMenuIcon.74f49f36af65fb3a719067a441d861d1.svg",
+    "static/media/menuIcon.svg": "/react-bags/static/media/menuIcon.85f8f37523bfd483970c49d533bdaaf0.svg",
+    "static/media/crossIcon.svg": "/react-bags/static/media/crossIcon.e9cbb710572e616eff1688f0833e9755.svg",
+    "static/media/productImagePreloader.svg": "/react-bags/static/media/productImagePreloader.0bbf0994bd666f7b76a9bf60abdaafb9.svg",
+    "static/media/arrowLeftIcon.svg": "/react-bags/static/media/arrowLeftIcon.818a7da31ce4741070f12314b73591f9.svg",
+    "static/media/arrowRightIcon.svg": "/react-bags/static/media/arrowRightIcon.9cf1f9d2799b7270df5193c832c7a00f.svg",
+    "static/media/sortArrow.svg": "/react-bags/static/media/sortArrow.bd0e925c452a42ddaaf8a1b4f9ff8a55.svg",
+    "main.a3b23290.css.map": "/react-bags/static/css/main.a3b23290.css.map",
+    "main.7ce5af48.js.map": "/react-bags/static/js/main.7ce5af48.js.map",
+    "WishList.0ae01249.chunk.css.map": "/react-bags/static/css/WishList.0ae01249.chunk.css.map",
+    "WishList.16def60e.chunk.js.map": "/react-bags/static/js/WishList.16def60e.chunk.js.map",
+    "ShoppingBag.3f68d67f.chunk.css.map": "/react-bags/static/css/ShoppingBag.3f68d67f.chunk.css.map",
+    "ShoppingBag.9683439d.chunk.js.map": "/react-bags/static/js/ShoppingBag.9683439d.chunk.js.map",
+    "FullProduct.8b07a84d.chunk.css.map": "/react-bags/static/css/FullProduct.8b07a84d.chunk.css.map",
+    "FullProduct.fa4c15bf.chunk.js.map": "/react-bags/static/js/FullProduct.fa4c15bf.chunk.js.map",
+    "NotFound.ecb3b9f0.chunk.css.map": "/react-bags/static/css/NotFound.ecb3b9f0.chunk.css.map",
+    "NotFound.82c4033f.chunk.js.map": "/react-bags/static/js/NotFound.82c4033f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b23290.css",
+    "static/js/main.7ce5af48.js"
+  ]
+}
